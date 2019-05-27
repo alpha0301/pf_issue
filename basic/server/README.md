@@ -4,7 +4,7 @@
 - 스택 수집: jstack, pstack
 - 스택 분석: SDPA(Stack Dynamic Performance Analyzer)
 
-## 개요
+## 어플리케이션 서버 분석
 - 서버 내 프로세스를 대상으로 5~10초 간격으로 스택을 수집
 - 어플리케이션 코드, 로깅, DB, 연동 모듈이 각각 차지하는 비중을 분석
 - 게이트웨이 영역 분석
